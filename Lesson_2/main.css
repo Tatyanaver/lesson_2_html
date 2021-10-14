@@ -1,0 +1,38 @@
+.all_info {
+    background-color: beige;
+    }
+h1 {
+    text-align: center;
+    color: darkslategray;
+}
+.info {
+    color: #3a1414;
+    text-align: justify;
+    font-size: 15px;
+    }
+.info_history {
+    color: #3a1414;
+    text-align: justify;
+    font-size: 15px;
+}
+hr {
+    color: darkslateblue;
+}
+
+h3 {
+    font-size: 20px;
+    color: darkcyan;
+    }
+li {
+    font-size: 18px;
+}
+img {width: 300px;
+    height: 250px;
+    border: 5px solid saddlebrown;}
+.info_festival {
+    font-size: 20px;
+    color: brown;
+    text-align: justify;
+}
+
+
