@@ -1,0 +1,29 @@
+.box_head {
+    background: lightgray;
+    width: 1500px;
+    height: 800px;
+    color: #3a1414;
+    text-align: center;
+    }
+.first_box {
+    background: darkkhaki;
+    margin-bottom: 5px;
+    height: 150px;
+}
+.second_box {
+    background: peru;
+    height: 130px;
+    margin-bottom: 3px;}
+.third_box {
+    height: 350px;
+    display: flex;}
+.a_box {
+    background: sienna;
+    flex-grow: 3;}
+.b_box {
+    background: bisque;
+    flex-grow: 1;
+    }
+.fourth_box {
+    background: saddlebrown;
+    height: 130px;}

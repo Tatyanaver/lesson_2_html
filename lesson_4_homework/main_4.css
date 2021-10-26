@@ -1,0 +1,46 @@
+.box_head {
+    background: lightgray;
+    width: 1400px;
+    height: 800px;
+    color: #3a1414;
+    font-size: 16px;
+    text-align: center;}
+
+#header {
+    background: lightgreen;
+    height: 100px;
+    border: 3px solid black;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+
+.second_box {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 10px;
+    margin-bottom: 5px;
+    }
+
+.a_box {
+    background: darkslategray;
+    width: 30%;
+    height: 400px;
+    border: 3px solid black;}
+
+#menu {
+    width: 70%;
+    flex-direction: column;}
+
+.b_box, .c_box {
+    background: aquamarine;
+    height: 47%;
+    border: 3px solid black;
+    margin-bottom: 5px;
+}
+
+#footer {
+    background: darkslategray;
+    height: 100px;
+    border: 3px solid black;}
+

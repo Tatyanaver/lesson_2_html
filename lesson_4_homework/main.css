@@ -1,0 +1,27 @@
+.box_head {
+    background: lightgray;
+    width: 1600px;
+    height: 800px;
+    color: #f8f5f2;
+    text-align: center;
+    align-items: center;}
+.box_first {
+    background: dimgray;
+    width: 100%;
+    height: 300px;
+    margin-bottom: 10px;
+}
+.box {
+    display: flex;}
+
+.box_second {
+    background: dimgray;
+    width: 65%;
+    height: 400px;
+    margin-right: 5px;
+}
+.box_third {
+    background: dimgray;
+    width: 30%;
+    height: 400px;
+}
